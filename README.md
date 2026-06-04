@@ -7,10 +7,17 @@ Skills
 - Excel
 - Power BI
 - Weka
+- cesim
 - Data Visualization
 - Requirements Gathering
 - Stakeholder Management
 - Agile & Scrum
+
+  Analytics
+- Descriptive Analytics
+- Diagnostic Analytics
+- Predictive Analytics
+- Business Metrics Analysis
 
   Contact
   Linkedin - linkedin.com/in/srivarthini-kumar-62a75124b
